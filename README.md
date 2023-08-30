@@ -2,5 +2,5 @@
 
 Heart Failure Prection 
 
-https://heart-failure-app-streamlit.herokuapp.com/
+https://heart-failure-prediction-using-app-mbycmknrbjzpimf7or3kub.streamlit.app/
 
